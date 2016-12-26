@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.warmachine.awesomefonts.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Too Freakin Cute"
+        android:id="@+id/too_frekin"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admiration Pains"
+        android:layout_below="@id/too_frekin"
+        android:id="@+id/admiration_pains"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Amatic Bold"
+        android:layout_below="@id/admiration_pains"
+        android:id="@+id/amatic_bold"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Amatic Regular"
+        android:layout_below="@id/amatic_bold"
+        android:id="@+id/amatic_regular"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/amatic_regular"
+        android:text="Back Black"
+        android:id="@+id/back_black"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capture It"
+        android:layout_below="@id/back_black"
+        android:id="@+id/capture_it"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Christians United"
+        android:id="@+id/christians_united"
+        android:textSize="40dp"
+        android:layout_below="@id/capture_it"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coffee with Sugar"
+        android:id="@+id/coffee_with_sugar"
+        android:layout_below="@id/christians_united"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Electricity"
+        android:layout_below="@id/coffee_with_sugar"
+        android:id="@+id/electricity"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Elephant"
+        android:id="@+id/elephant"
+        android:layout_below="@id/electricity"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/elephant"
+        android:text="Eyes Wide"
+        android:id="@+id/eyes_wide"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="La Bataille"
+        android:id="@+id/la_bataille"
+        android:layout_below="@id/eyes_wide"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Big Heart"
+        android:id="@+id/mybigheart"
+        android:layout_below="@id/la_bataille"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Epic Selfie"
+        android:id="@+id/myepicselfie"
+        android:layout_below="@id/mybigheart"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pacifico"
+        android:id="@+id/pacifico"
+        android:textSize="40dp"
+        android:layout_below="@id/myepicselfie"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ricard Crime"
+        android:id="@+id/ricard_crime"
+        android:textSize="40dp"
+        android:layout_below="@id/pacifico"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ricard_crime"
+        android:text="Safira Shine"
+        android:id="@+id/safira_shine"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seasrn"
+        android:layout_below="@id/safira_shine"
+        android:id="@+id/seasrn"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_below="@id/seasrn"
+        android:layout_height="wrap_content"
+        android:text="Sentimental"
+        android:id="@+id/sentimental"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sentimental"
+        android:text="The Quest"
+        android:id="@+id/the_quest"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thunderstrike"
+        android:id="@+id/tunderstrike"
+        android:layout_below="@id/the_quest"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thunderstrike3D"
+        android:id="@+id/tunderstrike3d"
+        android:layout_below="@id/tunderstrike"
+        android:textSize="35dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bella Donna"
+        android:layout_below="@id/tunderstrike3d"
+        android:id="@+id/bella_donna"
+        android:textSize="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wingsong"
+        android:layout_below="@id/bella_donna"
+        android:id="@+id/windsong"
+        android:textSize="45dp"
+        />
+
+</RelativeLayout>
+</ScrollView>
