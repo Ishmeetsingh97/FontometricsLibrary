@@ -1,8 +1,8 @@
 ![alt tag](https://github.com/Ishmeetsingh97/FontometricsLibrary/blob/master/FontometricsArtwork.jpg)
 # FontometricsLibrary
-[![API](https://img.shields.io/badge/Android%20Arsenal-10+-orange.svg?style=flat)]()
+[![API](https://img.shields.io/badge/API-9%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=11)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Fontometrics-green.svg?style=flat)](https://android-arsenal.com/details/1/4972)
-[![Android Dev Digest](https://img.shields.io/badge/Android%20Arsenal-#124-blue.svg?style=flat)](https://www.androiddevdigest.com/digest-124/)
+[![Android Dev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%23124-blue.svg)](https://www.androiddevdigest.com/digest-124/)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 <br/>
 A Simple Android Library to use Custom Fonts with Ease. Use Customs Fonts in your Android project without adding any .ttf/.otf in Assests Folder.
