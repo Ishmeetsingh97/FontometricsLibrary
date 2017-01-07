@@ -1,6 +1,6 @@
 ![alt tag](https://github.com/Ishmeetsingh97/FontometricsLibrary/blob/master/FontometricsArtwork.jpg)
 # FontometricsLibrary
-[![API](https://img.shields.io/badge/API-9%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=11)
+[![API](https://img.shields.io/badge/API-10%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=10)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Fontometrics-green.svg?style=flat)](https://android-arsenal.com/details/1/4972)
 [![Android Dev Digest](https://img.shields.io/badge/Android%20Dev%20Digest-%23124-cyan.svg)](https://www.androiddevdigest.com/digest-124/)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
