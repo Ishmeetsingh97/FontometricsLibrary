@@ -31,3 +31,4 @@ textview = (TextView) findViewById(R.id.textview_id);
 textview.setTypeface(Fontometrics.coffee_with_sugar(this));
 ```
 ###For implementation you can also refer the sample app provider in the repo.
+*TO SUPPORT FOR SUCH MORE LIBRARIES, CHECK THIS (http://github.com/ishmeetsingh97).
